@@ -1,0 +1,7 @@
+# Compiled output
+/dist
+/node_modules
+/build
+
+# Exclude environment files
+.env
